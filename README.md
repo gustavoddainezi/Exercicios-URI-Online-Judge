@@ -27,8 +27,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-damaceno/)](https://www.linkedin.com/in/gustavo-damaceno/)
 [![Outlook Badge](https://img.shields.io/badge/gustavo.dainezi@fatec.sp.gov.br-gray?style=flat&logo=microsoft-outlook&logoColor=white&link=mailto:gustavo.dainezi@fatec.sp.gov.br)](mailto:gustavo.dainezi@fatec.sp.gov.br)
 
----
-
 ## 📝 Licença
 
 Este projeto esta sobe a licença [MIT](./LICENSE).
